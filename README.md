@@ -46,3 +46,9 @@ Please check the 'Exam' page https://www.figma.com/design/13brg7M08GIWnFf0DhUjsy
 _(note: other stuff can be static e.g. account, sidebar, comments, etc.)_
 
 Questions? We love to answer: minhtc@mamaboxcorp.com
+
+
+## Improve (TanDN)
+
+- Detail video use iframe which return from youtube so cannot adjust its size
+- For reducing state, we can use redux RTK to optimize code
