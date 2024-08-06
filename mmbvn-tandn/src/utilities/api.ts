@@ -1,4 +1,4 @@
 const baseUrl = "https://www.googleapis.com/youtube/v3";
-const apiKey = "AIzaSyBTDku37SISSqITj13Uz3QJvKy7zChU4-U";
+const apiKey = "AIzaSyCuXtjGMXHUe_3K-I4R86hNwYQ4XVfBy_A";
 
 export { apiKey, baseUrl }

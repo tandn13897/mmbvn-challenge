@@ -1,6 +1,6 @@
 type TResult = {
     name: string,
-    id: number
+    id: string
 }
 
 export type { TResult }
